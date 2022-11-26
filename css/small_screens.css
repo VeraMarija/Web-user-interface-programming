@@ -1,0 +1,36 @@
+@media only screen and (max-width: 768px) {
+header .navbar-brand {
+    padding-left: 1rem;
+}
+
+.section-1 .row .col-md-6 .panel {
+    position: initial;
+    width: initial;
+    height: initial;
+}
+
+/* .section-2 .cover {
+    background-position: -25vmin -10vmin; 
+    position: initial;
+    width: initial;
+    height: initial;
+}  */
+
+.section-2 .container {
+    width:fit-content;
+    height:fit-content;
+    position:fixed;
+    
+}
+
+.furniture .rect {
+    width: 5rem;
+    height: 8rem;
+}
+
+
+
+}
+
+
+
